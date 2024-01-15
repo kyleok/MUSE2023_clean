@@ -14,7 +14,6 @@ If you would like to see our approach and its results please see [Our paper](htt
 It is highly recommended to run everything in a Python virtual environment. Please make sure to install the packages listed 
 in ``requirements.txt`` and adjust the paths in `config.py` (especially ``BASE_PATH``). 
 
-You can then e.g. run the unimodal baseline reproduction calls in the ``*.sh`` file provided for each sub-challenge.
 
 ## Settings
 The ``main.py`` script is used for training and evaluating models. Most important options:
