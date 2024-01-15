@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This git contains the MuSe 2023 participating team FeelsGood output. We leverage a Transformer Encoder model, and organized it to be compatible with the existing code as much as possible. For details about competition, please see the [Baseline Paper](https://www.researchgate.net/publication/359875358_The_MuSe_2022_Multimodal_Sentiment_Analysis_Challenge_Humor_Emotional_Reactions_and_Stress).
+This git contains the MuSe 2023 participating team FeelsGood output. We leverage a Transformer Encoder model, and organized it to be compatible with the existing code as much as possible. For details about competition, please see the [Baseline Paper](https://www.researchgate.net/publication/370100318_The_MuSe_2023_Multimodal_Sentiment_Analysis_Challenge_Mimicked_Emotions_Cross-Cultural_Humour_and_Personalisation).
 
 If you would like to see our approach and its results please see [Our paper](https://dl.acm.org/doi/pdf/10.1145/3606039.3613104) 
 
